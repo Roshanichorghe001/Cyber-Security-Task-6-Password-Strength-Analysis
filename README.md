@@ -99,6 +99,7 @@ Attackers use leaked usernames and passwords from one website to log into other 
 
 ### 8. Rainbow Table Attack
 Attackers use precomputed hash tables to crack weak password hashes.
+
 ---
 
 ## Password Security Best Practices
