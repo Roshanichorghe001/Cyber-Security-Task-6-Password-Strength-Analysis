@@ -1,12 +1,11 @@
 # Cyber-Security-Task-6-Password-Strength-Analysis
 Evaluated password strength using an online password checker, analyzed weak to very strong passwords, and documented password security best practices.
-# Task 6 - Create a Strong Password and Evaluate Its Strength
 
 ## Objective
 The objective of this task was to understand the importance of strong passwords by creating passwords of different strengths and evaluating them using an online password strength checker.
 
 ## Tool Used
-- Password Strength Checker (https://www.security.org/how-secure-is-my-password/)
+- Password Strength Checker (https://passwordmeter.com/)
 
 ---
 
