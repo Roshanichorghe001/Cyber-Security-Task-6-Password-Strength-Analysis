@@ -64,7 +64,6 @@ The objective of this task was to understand the importance of strong passwords 
 - Provides excellent protection against brute-force and dictionary attacks.
 
 ---
-
 ## Key Learnings
 
 - Password length plays a significant role in password security.
@@ -74,6 +73,43 @@ The objective of this task was to understand the importance of strong passwords 
 - Create unique passwords for different accounts.
 - Enable Multi-Factor Authentication (MFA) for additional security.
 
+
+## Common Password Attacks
+
+### 1. Brute Force Attack
+The attacker tries every possible password combination until the correct password is found.
+
+### 2. Dictionary Attack
+The attacker uses a list of commonly used passwords to guess passwords.
+
+### 3. Rule-Based Attack
+The attacker modifies common passwords using predefined rules, such as adding numbers, symbols, or changing letter cases.
+
+### 4. Password Guessing
+The attacker guesses passwords based on personal information like names, birthdays, or phone numbers.
+
+### 5. Phishing Attack
+The attacker tricks users into revealing passwords through fake websites, emails, or messages.
+
+### 6. Trojan / Spyware / Keylogger
+Malicious software secretly records keystrokes or steals saved passwords.
+
+### 7. Credential Stuffing
+Attackers use leaked usernames and passwords from one website to log into other accounts.
+
+### 8. Rainbow Table Attack
+Attackers use precomputed hash tables to crack weak password hashes.
+
+
+## Password Security Best Practices
+
+- Use passwords with at least 12–16 characters.
+- Include uppercase letters, lowercase letters, numbers, and special characters.
+- Avoid using personal information.
+- Use a unique password for every account.
+- Enable Multi-Factor Authentication (MFA).
+- Use a password manager to store passwords securely.
+- Change passwords immediately if they are compromised.
 ---
 
 ## Conclusion
