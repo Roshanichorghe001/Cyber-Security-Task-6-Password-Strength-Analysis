@@ -72,7 +72,7 @@ The objective of this task was to understand the importance of strong passwords 
 - Use uppercase letters, lowercase letters, numbers, and special characters.
 - Create unique passwords for different accounts.
 - Enable Multi-Factor Authentication (MFA) for additional security.
-
+---
 
 ## Common Password Attacks
 
@@ -99,7 +99,7 @@ Attackers use leaked usernames and passwords from one website to log into other 
 
 ### 8. Rainbow Table Attack
 Attackers use precomputed hash tables to crack weak password hashes.
-
+---
 
 ## Password Security Best Practices
 
